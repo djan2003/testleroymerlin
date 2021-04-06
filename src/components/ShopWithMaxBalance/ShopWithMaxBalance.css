@@ -1,0 +1,14 @@
+.blocknameOfGoods{
+   display: flex;
+    flex-direction:column;
+    justify-content: center;
+    align-items: center;
+    background-color: #b9e2e2;
+    min-height: 100vh;
+}
+.nameOfGoods{
+    margin: 15%;
+}
+.storeQuantity{
+    margin: 20px;
+}
