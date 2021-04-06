@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/testleroymerlin/static/css/main.5d9892cb.chunk.css",
+    "main.js": "/testleroymerlin/static/js/main.58e52250.chunk.js",
+    "main.js.map": "/testleroymerlin/static/js/main.58e52250.chunk.js.map",
+    "runtime-main.js": "/testleroymerlin/static/js/runtime-main.82db2c51.js",
+    "runtime-main.js.map": "/testleroymerlin/static/js/runtime-main.82db2c51.js.map",
+    "static/js/2.564d7bb6.chunk.js": "/testleroymerlin/static/js/2.564d7bb6.chunk.js",
+    "static/js/2.564d7bb6.chunk.js.map": "/testleroymerlin/static/js/2.564d7bb6.chunk.js.map",
+    "static/js/3.d7d550bb.chunk.js": "/testleroymerlin/static/js/3.d7d550bb.chunk.js",
+    "static/js/3.d7d550bb.chunk.js.map": "/testleroymerlin/static/js/3.d7d550bb.chunk.js.map",
+    "index.html": "/testleroymerlin/index.html",
+    "static/css/main.5d9892cb.chunk.css.map": "/testleroymerlin/static/css/main.5d9892cb.chunk.css.map",
+    "static/js/2.564d7bb6.chunk.js.LICENSE.txt": "/testleroymerlin/static/js/2.564d7bb6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.82db2c51.js",
+    "static/js/2.564d7bb6.chunk.js",
+    "static/css/main.5d9892cb.chunk.css",
+    "static/js/main.58e52250.chunk.js"
+  ]
+}
